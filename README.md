@@ -3,15 +3,15 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Java)</b>
-  - [Practicing DS in ICS 240](https://github.com/gaug1801)
-  - [Practicing DS in ICS 340](https://github.com/gaug1801)
-- <b> OOP and Design Practice(JSON, XML, Java))</b>
+  - [DS Practice in ICS 240](https://github.com/gaug1801)
+  - [DS Practice in ICS 340](https://github.com/gaug1801)
+- <b> OOP and Design(JSON, XML, Java))</b>
   - [Car Dealership Application](https://github.com/gaug1801)
 - <b>Parallel and Distributed Algorithms (C, Java)</b>
-  - [Operating Systems](https://github.com/gaug1801)
+  - [Operating System Practice](https://github.com/gaug1801)
   - [Parallel and Distributed Algorithms](https://github.com/gaug1801)
 - <b>C</b>
-  - [Terminal](https://github.com/gaug1801)
+  - [Terminal Shell](https://github.com/gaug1801)
   - [UNIX Utilities](https://github.com/gaug1801)
   - [Bridge Traffic Controller](https://github.com/gaug1801)
 
