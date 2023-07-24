@@ -3,8 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Java)</b>
-  - [Praciting DS in ICS 240](https://github.com/gaug1801)
-  - [Praciting DS in ICS 340](https://github.com/gaug1801)
+  - [Practicing DS in ICS 240](https://github.com/gaug1801)
+  - [Practicing DS in ICS 340](https://github.com/gaug1801)
 - <b> OOP and Design Practice(JSON, XML, Java))</b>
   - [Car Dealership Application](https://github.com/gaug1801)
 - <b>Parallel and Distributed Algorithms (C, Java)</b>
