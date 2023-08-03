@@ -5,17 +5,15 @@
 - <b>Database Management (SQL, Java)</b>
   - [Music Catalogue Database with UI](https://github.com/gaug1801/Project-4)
 - <b>Data Structures and Algorithms Practice (Java)</b>
-  - [DS Practice in ICS 240](https://github.com/gaug1801)
   - [DS Practice in ICS 340](https://github.com/gaug1801/Deliverables)
 - <b> OOP and Design(JSON, XML, Java))</b>
   - [Car Dealership Application](https://github.com/Guacamoley/Car-Dealership-Android-App)
 - <b>Parallel and Distributed Algorithms (C, Java)</b>
-  - [Operating System Practice](https://github.com/gaug1801/Thread-Synchronization)
   - [String Handoff with multithreaded passer and receiver](https://github.com/gaug1801/String-Handoff)
 - <b>C</b>
-  - [Terminal Shell](https://github.com/gaug1801)
+  - [Terminal Shell](https://github.com/gaug1801/Terminal-Shell)
   - [UNIX Utilities](https://github.com/gaug1801/Unix-Utilities)
-  - [Bridge Traffic Controller](https://github.com/gaug1801)
+  - [Bridge Traffic Controller](https://github.com/gaug1801/Thread-Synchronization)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/gabriel-augustin-26abbb197/"><b>LinkedIn</b></a>
