@@ -11,7 +11,7 @@
   - [Car Dealership Application](https://github.com/Guacamoley/Car-Dealership-Android-App)
 - <b>Parallel and Distributed Algorithms (C, Java)</b>
   - [Operating System Practice](https://github.com/gaug1801/Thread-Synchronization)
-  - [Parallel and Distributed Algorithms](https://github.com/gaug1801)
+  - [Parallel and Distributed Algorithms](https://github.com/gaug1801/String-Handoff)
 - <b>C</b>
   - [Terminal Shell](https://github.com/gaug1801)
   - [UNIX Utilities](https://github.com/gaug1801)
