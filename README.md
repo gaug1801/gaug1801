@@ -9,7 +9,7 @@
 - <b> OOP and Design(JSON, XML, Java))</b>
   - [Car Dealership Application](https://github.com/Guacamoley/Car-Dealership-Android-App)
 - <b>Parallel and Distributed Algorithms (C, Java)</b>
-  - [String Handoff with multithreaded passer and receiver](https://github.com/gaug1801/String-Handoff)
+  - [String Handoff](https://github.com/gaug1801/String-Handoff)
 - <b>C</b>
   - [Terminal Shell](https://github.com/gaug1801/Terminal-Shell)
   - [UNIX Utilities](https://github.com/gaug1801/Unix-Utilities)
