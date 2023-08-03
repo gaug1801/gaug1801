@@ -10,7 +10,7 @@
 - <b> OOP and Design(JSON, XML, Java))</b>
   - [Car Dealership Application](https://github.com/Guacamoley/Car-Dealership-Android-App)
 - <b>Parallel and Distributed Algorithms (C, Java)</b>
-  - [Operating System Practice](https://github.com/gaug1801)
+  - [Operating System Practice](https://github.com/gaug1801/Thread-Synchronization)
   - [Parallel and Distributed Algorithms](https://github.com/gaug1801)
 - <b>C</b>
   - [Terminal Shell](https://github.com/gaug1801)
