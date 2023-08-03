@@ -8,7 +8,7 @@
   - [DS Practice in ICS 240](https://github.com/gaug1801)
   - [DS Practice in ICS 340](https://github.com/gaug1801/Deliverables)
 - <b> OOP and Design(JSON, XML, Java))</b>
-  - [Car Dealership Application]([https://github.com/gaug1801](https://github.com/Guacamoley/Car-Dealership-Android-App)
+  - [Car Dealership Application](https://github.com/Guacamoley/Car-Dealership-Android-App)
 - <b>Parallel and Distributed Algorithms (C, Java)</b>
   - [Operating System Practice](https://github.com/gaug1801)
   - [Parallel and Distributed Algorithms](https://github.com/gaug1801)
