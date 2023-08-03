@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Database Management (SQL, Java)</b>
-  - [Music Catalogue Database](https://github.com/gaug1801/Project-4)
+  - [Music Catalogue Database with UI](https://github.com/gaug1801/Project-4)
 - <b>Data Structures and Algorithms Practice (Java)</b>
   - [DS Practice in ICS 240](https://github.com/gaug1801)
   - [DS Practice in ICS 340](https://github.com/gaug1801/Deliverables)
