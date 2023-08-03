@@ -14,7 +14,7 @@
   - [String Handoff with multithreaded passer and receiver](https://github.com/gaug1801/String-Handoff)
 - <b>C</b>
   - [Terminal Shell](https://github.com/gaug1801)
-  - [UNIX Utilities](https://github.com/gaug1801)
+  - [UNIX Utilities](https://github.com/gaug1801/Unix-Utilities)
   - [Bridge Traffic Controller](https://github.com/gaug1801)
 
 <h2> 🤳 Connect with me:</h2>
