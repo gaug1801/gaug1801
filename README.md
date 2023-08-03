@@ -4,7 +4,7 @@
 
 - <b>Database Management (SQL, Java)</b>
   - [Music Catalogue Database with UI](https://github.com/gaug1801/Project-4)
-- <b>Data Structures and Algorithms Practice (Java)</b>
+- <b>Data Structures and Algorithms (Java)</b>
   - [DS Practice in ICS 340](https://github.com/gaug1801/Deliverables)
 - <b> OOP and Design(JSON, XML, Java))</b>
   - [Car Dealership Application](https://github.com/Guacamoley/Car-Dealership-Android-App)
